@@ -35,3 +35,9 @@ body {
     width: 110px;
 }
 
+.img-container::after {
+    content: '';
+    background-color: #fff;
+    border-radius: 50%;
+    
+}
